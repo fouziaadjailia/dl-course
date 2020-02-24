@@ -47,7 +47,7 @@ Topics:
 4. language model for programming language (consultant Andrij David, MSc.)
 5. [Super-resolution with GANs](assignments/superresolution-with-gans.md) (consultant Ján Magyar, MSc.)
 6. deep reinforcement learning (consultant Lukáš Hruška, MSc.)
-7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
+7. assignment in cooperation with Najavo, s.r.o.  (consultant Fouzia Adjailia, MSc.)
 8. explainable AI (consultant Ivan Čík, MSc.)
 
 ** [Sign for assignments](https://docs.google.com/spreadsheets/d/1xv3biGtostsQoKTdZxai5tV_PauTdllpiw86H9qovCA/edit?usp=sharing) **
